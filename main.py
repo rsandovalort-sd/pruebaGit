@@ -1,5 +1,3 @@
-num1 = 1
-num2 = 4
-suma = num1 + num2
-
-print(suma)
+numeros=[1,2,3,4,5,6,7,8,9,10]
+resultado = sum(numeros)
+print(resultado)
